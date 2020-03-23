@@ -1,0 +1,6 @@
+Working progress setting up new repository.
+
+This project aims to share and develop code written in Python3.6 for the precision analysis of multiple Raman spectra collected from carbon materials.
+Raman spectroscopy is a highly information dense method of analysis of carbon materials, however often the complete analysis requires multiple spectra aquisions from the same sample.
+This project will allow these large data sets to be automatically analysed by fitting all common carbon peaks, including error estimates whilst also verifying the peaks are present at sufficient intensity to be relevant to the overall data set.
+Whilst currently fully operational, further improvements to the fitting code and encouraged.
