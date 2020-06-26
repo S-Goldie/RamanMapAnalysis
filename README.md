@@ -12,4 +12,4 @@ Requires Python3.7 and modules:
 A stand alone .exe executable program is in preparation.
 
 
-This project has also been expanded to consider the statistical significance of different data sets for the analysis of nanomaterials. Further details and raw data available in the folder 'Statistical Analysis'.
+This project has also been expanded to consider the statistical significance of different data sets for the analysis of nanomaterials. Raw data available as .zip folders for each type of material studied.
