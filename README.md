@@ -5,10 +5,9 @@ By collecting many points this problem can be addressed. This was the subject of
 
 A code has been developed to fit many independent Raman spectra from carbon nanomaterials, returning key peak parameters from the D, G and 2D peaks. This Python code is available for download.
 Requires Python3.7 and modules:
- - lmfit
- - matplotlib
- - tkinter
- - timeit
+ - lmfit  =  https://lmfit.github.io/lmfit-py/
+ - matplotlib  =  https://matplotlib.org/
+ - tkinter  =  https://docs.python.org/3/library/tkinter.html
 
 A stand alone .exe executable program is in preparation.
 
