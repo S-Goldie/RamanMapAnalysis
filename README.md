@@ -9,7 +9,8 @@ Requires Python3.7 and modules:
  - matplotlib  =  https://matplotlib.org/
  - tkinter  =  https://docs.python.org/3/library/tkinter.html
 
-A stand alone .exe executable program is in preparation.
+To download the complete program that requires no installation of Python or modules click on the 'New Releases' tab to the right for a fully functinal .zip file.
+The python program is still advised for stability and massively reduced disk space if possible.
 
 
 This project has also been expanded to consider the statistical significance of different data sets for the analysis of nanomaterials. Raw data available as .zip folders for each type of material studied.
