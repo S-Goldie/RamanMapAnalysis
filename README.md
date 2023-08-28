@@ -2,6 +2,8 @@
 
 Raman spectroscopy is a common tool for the analysis of carbon nanomaterials, however like many micro-scale measurements it is not automatically clear how spectra collected from single points correspond to the entire bulk material.
 By collecting many points this problem can be addressed. This was the subject of a research project undertaken at the University of Durham in the group of Karl Coleman.
+The open access publication can be found at: https://pubs.acs.org/doi/10.1021/acsanm.0c02361
+Please reference this publication if the code or data are used.
 
 A code has been developed to fit many independent Raman spectra from carbon nanomaterials, returning key peak parameters from the D, G and 2D peaks. This Python code is available for download.
 Requires Python3.7 and modules:
