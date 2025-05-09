@@ -1,4 +1,4 @@
-# RamanMapAnalysis
+# Statistical Raman Analysis of Carbon Nanomaterials
 
 Raman spectroscopy is a common tool for the analysis of carbon nanomaterials, however like many micro-scale measurements it is not automatically clear how spectra collected from single points correspond to the entire bulk material.
 By collecting many points this problem can be addressed. This was the subject of a research project with full details prublished [here](https://pubs.acs.org/doi/10.1021/acsanm.0c02361).
